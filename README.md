@@ -62,6 +62,10 @@ Output: 0,1,NORTH
 
 > Uses ASCII art with **"ROVER"** cellular title.
 
+### Demo Video
+
+![Rover CLI Demo](assets/basicCLI.mov)
+
 ---
 
 ## `src/tk_app.py` Tkinter Desktop GUI
