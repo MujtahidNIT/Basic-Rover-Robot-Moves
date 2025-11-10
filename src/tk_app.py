@@ -1,6 +1,27 @@
 # --------------------------------------------------------------
 #  <<<  START OF tk_app.py  >>>
 # --------------------------------------------------------------
+
+# =========================== Copyright Header ===========================
+#
+# Copyright (c) 2025 Mohammad Mujtahid. All rights reserved.
+# Project: Rover Simulator
+# Location: Banbury, England, UK
+#
+# This file is part of a personal toy robot simulation project.
+# Any reproduction, distribution, or use of this code (in source or binary
+# forms, with or without modification) must include the following credit
+# in a visible location (e.g., README, UI, documentation, or source header):
+#
+#     "Rover Simulator: Original work by Mohammad Mujtahid"
+#
+# Failure to include this credit constitutes a violation of the copyright.
+#
+# No warranty is provided. Use at your own risk.
+#
+# =========================== Copyright Header ===========================
+
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 from robot import Robot
