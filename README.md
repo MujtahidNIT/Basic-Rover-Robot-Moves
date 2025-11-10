@@ -7,7 +7,10 @@
 ```
 TOYROBOT/
 ├── assets/
-│   └── logo.png                 # Application logo (used in GUIs)
+│   ├── logo.png                 # Application logo (used in GUIs)
+│   ├── basicCLI.mov                 # **CLI version:** Demo video for simple command‑line interface
+│   ├── TkinterGUI.mov                # **Tkinter GUI:** Demo video for desktop graphical simulator
+│   └── StreamlitGUI.mov               # **Streamlit Web UI:** Demo video for browser‑based graphical simulator
 ├── src/
 │   ├── robot.py                 # Core robot logic (5×5 table, PLACE/MOVE/LEFT/RIGHT/REPORT)
 │   ├── basic.py                 # **CLI version:** simple command‑line interface
