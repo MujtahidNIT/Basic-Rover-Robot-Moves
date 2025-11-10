@@ -67,7 +67,7 @@ Output: 0,1,NORTH
 
 ### Demo Video
 
-![Rover CLI Demo](assets/basicCLI.mov)
+![Rover CLI Demo](assets/basicCLI.gif)
 
 ---
 
@@ -116,6 +116,10 @@ DYLD_LIBRARY_PATH=$(brew --prefix cairo)/lib:$DYLD_LIBRARY_PATH \
 > export DYLD_LIBRARY_PATH=$(brew --prefix cairo)/lib:$DYLD_LIBRARY_PATH
 > python3 src/tk_app.py
 > ```
+
+### Demo Video
+
+![Rover Tkinter Demo](assets/TkinterGUI.gif)
 
 ---
 
